@@ -13,7 +13,6 @@ h1{
 }
 
 div{
-	width: 100%;
 	position: relative;
 }
 
@@ -58,6 +57,7 @@ p{
 #sushi{
 	background-color: yellow;
 }
+
 
 
 /*Desktop*/
